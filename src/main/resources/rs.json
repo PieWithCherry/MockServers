@@ -1,0 +1,10 @@
+{
+  "value":"4444000022221111",
+  "statusRule":{
+    "code":"SUCCESS",
+    "desc":"Успешно обработано"
+  },
+  "timeout":10,
+  "summa": "123",
+  "counter" : "3"
+}
